@@ -22,8 +22,8 @@
  </p>
 
 <div align="center">
-  <sub>The NLW #5 project. Built with ❤︎ by
-    <a href="https://github.com/PallomaGualter">Palloma Gualter</a> and
+  <sub>The NLW #5 project. Built with ❤💜 by
+    <a href="https://github.com/PallomaGualter">Palloma Gualter</a>
   </sub>
 </div>
 
@@ -43,8 +43,7 @@
 </p>
 
 <div>
-   <img src="./.github/screenshot-1.png" width="400px">
-   <img src="./.github/screenshot-2.png" width="400px">
+   <img src="./.github/app-preview.png" width="400px">
 </div>
 
 
@@ -83,7 +82,7 @@ Go to http://localhost:3000/ to see the result.
 
 Released in 2021 :closed_book: License
 
-Made with love by [Palloma Gualter] ❤︎ (https://github.com/PallomaGualter) 🚀.
+Made with love by [Palloma Gualter] 💜 (https://github.com/PallomaGualter) 🚀.
 This project is under the [MIT license](./LICENSE).
 
 
