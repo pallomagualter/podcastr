@@ -83,7 +83,7 @@ Go to http://localhost:3000/ to see the result.
 
 Released in 2021 :closed_book: License
 
-Made with love by [Palloma Gualter] ❤︎ (https://github.com/RafaelGoulartB) 🚀.
+Made with love by [Palloma Gualter] ❤︎ (https://github.com/PallomaGualter) 🚀.
 This project is under the [MIT license](./LICENSE).
 
 
