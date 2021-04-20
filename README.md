@@ -10,11 +10,6 @@
 
 > :rocket: Project made in NLW #5. Next Level Week #05 #NLW @Rocketseat
 
-<p align="center">
-    <a href="README.md">English</a>
-    ·
-    <a href="README-pt.md">Portuguese</a>
- </p>
 
 <div align="center">
   <sub>The NLW #5 project. Built with ❤💜 by
