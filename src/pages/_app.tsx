@@ -10,15 +10,14 @@ import styles from '../styles/app.module.scss';
 
 function MyApp({ Component, pageProps }) {
   return (
-    <div className={styles.wrapper}>
+    <div className={styles.appWrapper}>
       <main>
         <Header />
         <Component {...pageProps} />
       </main>
       <Player />
     </div>
-
-  )
+  );
 }
 
-export default MyApp
+export default MyApp;
